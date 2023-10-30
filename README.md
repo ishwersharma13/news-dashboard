@@ -8,9 +8,12 @@ https://653f4dfde3db8f1fcf15f290--ishwerdashboard.netlify.app/
 
 ### ScreenShots
 
-![Screenshot (535)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/1d55ab20-dffe-4286-b60e-625539d9d553)
+# Dahboard
 ![Screenshot (534)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/38f892b2-48e6-49cc-a475-72098de13239)
+# Filteration
+![Screenshot (535)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/1d55ab20-dffe-4286-b60e-625539d9d553)
 ![Screenshot (537)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/58673fea-5ad6-4f25-ac4d-7ef3ba21ffe8)
+# Search Bar
 ![Screenshot (536)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/8193399e-bcfd-44a4-b61d-afeb972c48f8)
 
 
