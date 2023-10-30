@@ -1,9 +1,18 @@
 # News Dashboard
 
-This project is a responsive news dashboard webpage created using React.js, Linesnews Api and Tailwind CSS. It displays a list of posts fetched from the API. The app allows users to view headlines, news icons, sources, and hashtags for various categories. The project include features such as category filter, a real-time search functionality for an enhanced user experience, responsive design, and a "Read more" button for each blog post.
+This project is a dynamic news dashboard web page built with React.js, utilizing the Linesnews API and Tailwind CSS. It presents a collection of posts retrieved from the API, offering users access to headlines, news icons, sources, and hashtags across different categories. The application incorporates key features, including category filtering, real-time search capabilities for an improved user experience, a responsive design, and a "Read more" button for each blog post.
 
 
-## Getting Started
+### Deployed Link 
+https://653f4dfde3db8f1fcf15f290--ishwerdashboard.netlify.app/
+
+### ScreenShots
+
+![Screenshot (535)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/1d55ab20-dffe-4286-b60e-625539d9d553)
+![Screenshot (534)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/38f892b2-48e6-49cc-a475-72098de13239)
+![Screenshot (537)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/58673fea-5ad6-4f25-ac4d-7ef3ba21ffe8)
+![Screenshot (536)](https://github.com/ishwersharma13/news-dashboard/assets/103954615/8193399e-bcfd-44a4-b61d-afeb972c48f8)
+
 
 ### Layout
 - Implemented a responsive layout for the dashboard page.
@@ -31,7 +40,7 @@ This project is a responsive news dashboard webpage created using React.js, Line
 
 1. Clone this repository to your local machine:
 
-   ```git clone ```
+   ```https://github.com/ishwersharma13/news-dashboard ```
 
 2. Go the folder
 
